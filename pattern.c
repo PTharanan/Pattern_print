@@ -1,6 +1,6 @@
 /*
  ============================================================================
- Name        : pettern.c
+ Name        : pattern.c
  Author      : 
  Version     :
  Copyright   : Your copyright notice
